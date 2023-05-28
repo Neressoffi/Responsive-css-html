@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+ list-style: none;
+ text-decoration: none;
+ text-decoration: none;
+ font-family: "Poppins";
+
+}
+
+.bloc{
+ width: 1500px;
+ height: 100%;
+ background-color:grey;
+margin:0 auto ;
+
+}
+.bloc p{
+font-size:1.3em ;
+
+}
+@media screen and (max-width:1500px) {
+ .bloc{
+    width:90% ;
+ } 
+ .bloc p{
+    font-size:0.9em ;
+    
+    }  
+}
